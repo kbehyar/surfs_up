@@ -7,19 +7,23 @@ The success of this business depends on the weather condition through out the ye
 
 ## Results:
 
-By comparing the two tables for the months of June and December, as requested by our investors, we can gather the following information:
+By comparing the two tables and plots for the months of June and December, as requested by our investors, we can gather the following information:
 
 ![](https://github.com/kbehyar/surfs_up/blob/main/Resources/June%20stats.PNG)![](https://github.com/kbehyar/surfs_up/blob/main/Resources/December%20stats.PNG)
 
 ![](https://github.com/kbehyar/surfs_up/blob/main/Resources/June%20temp%20plot.PNG)![](https://github.com/kbehyar/surfs_up/blob/main/Resources/December%20temp%20plot.PNG)
 
-- The overall temperature for both months over the span of several years appears to be very close to each other, mainly because Oahu is a tropical island close to the Equator. Considering the two months are on opposite seasons, the temperatures are between 71 - 74 throughout the year.
+- The overall temperature for both months over the span of several years appears to be very close to each other, mainly because Oahu is a tropical island close to the Equator. Considering the two months are on opposite seasons.
  
-- The standard deviation shows that the temperature are very close to the medians. 
+- The standard deviation shows that the temperature are small. The recorded temperates are not too far from their medians. 
 
-- 
+- The Medians of temperature for June and December are 74 & 71, Their lowest recorded was 64 and 56, Their highest was 85 and 83 respectively. 
+
+These results show a consistent temperature to operate this business. 
 
 ## Summary:
+
+
 
 ![](https://github.com/kbehyar/surfs_up/blob/main/Resources/December%20Precipitation%20stats%20and%20plot.PNG)
 ![](https://github.com/kbehyar/surfs_up/blob/main/Resources/June%20precipitation%20stats%20and%20plot.PNG)
