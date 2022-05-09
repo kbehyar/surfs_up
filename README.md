@@ -10,6 +10,7 @@ The success of this business depends on the weather condition through out the ye
 By comparing the two tables for the months of June and December, as requested by our investors, we can gather the following information:
 
 ![](https://github.com/kbehyar/surfs_up/blob/main/Resources/June%20stats.PNG)![](https://github.com/kbehyar/surfs_up/blob/main/Resources/December%20stats.PNG)
+
 ![](https://github.com/kbehyar/surfs_up/blob/main/Resources/June%20temp%20plot.PNG)![](https://github.com/kbehyar/surfs_up/blob/main/Resources/December%20temp%20plot.PNG)
 
 - The overall temperature for both months over the span of several years appears to be very close to each other, mainly because Oahu is a tropical island close to the Equator. Considering the two months are on opposite seasons, the temperatures are between 71 - 74 throughout the year.
