@@ -23,7 +23,8 @@ These results show a consistent temperature to operate this business.
 
 ## Summary:
 
+To better understand the situation on the island, we have prepared stats on the precipitation for the two months of June and December. The table and graphs below show that 
 
+![](https://github.com/kbehyar/surfs_up/blob/main/Resources/June%20precipitation%20stats%20and%20plot.PNG)![](https://github.com/kbehyar/surfs_up/blob/main/Resources/December%20Precipitation%20stats%20and%20plot.PNG)
 
-![](https://github.com/kbehyar/surfs_up/blob/main/Resources/December%20Precipitation%20stats%20and%20plot.PNG)
-![](https://github.com/kbehyar/surfs_up/blob/main/Resources/June%20precipitation%20stats%20and%20plot.PNG)
+The overall rainfall for the months of June and December were very low.
