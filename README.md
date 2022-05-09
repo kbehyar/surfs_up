@@ -9,7 +9,7 @@ The success of this business depends on the weather condition through out the ye
 
 By comparing the two tables for the months of June and December, as requested by our investors, we can gather the following information:
 
-![]()
+![](https://github.com/kbehyar/surfs_up/blob/main/Resources/June%20stats.PNG)
 
 ![](https://github.com/kbehyar/surfs_up/blob/main/Resources/December%20stats.PNG)
 
